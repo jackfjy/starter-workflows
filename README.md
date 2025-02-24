@@ -70,3 +70,6 @@ For viewing the templates with `preview` label, provide query parameter `preview
 
 ### Enable template for public
 Remove the `labels` array from `properties.json` file to publish the template to public
+
+
+测试actions
